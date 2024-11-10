@@ -1,0 +1,123 @@
+/* Body styling */
+body {
+    text-align: center;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fff;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* Main header styling */
+h1 {
+    color: #ffeb3b;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+    margin-bottom: 5px;
+}
+
+/* Subheader styling */
+h2 {
+    color: #ffffff;
+    font-size: 28px;
+    margin-bottom: 15px;
+    text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.7);
+}
+
+/* Question table styling */
+table {
+    background-color: rgba(0, 0, 74, 0.85);
+    color: white;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+
+/* Question cell styling */
+td.question {
+    font-size: 25px;
+    font-weight: bold;
+    padding: 15px;
+    border-bottom: 2px solid #ffffff;
+    background-color: rgba(0, 0, 100, 0.9);
+}
+
+/* Answer cell styling */
+td {
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+}
+
+/* Specific styling for answer cells */
+td.a, td.c {
+    border-left: 2px solid #ffffff;
+}
+td.b, td.d {
+    border-right: 2px solid #ffffff;
+}
+td.a, td.b {
+    border-bottom: 1px dotted #ffffff;
+}
+td.c {
+    border-bottom-left-radius: 10px;
+    border-bottom: 2px solid #ffffff;
+}
+td.d {
+    border-bottom-right-radius: 10px;
+    border-bottom: 2px solid #ffffff;
+}
+
+/* Hover effect for answer cells */
+td:hover {
+    background-color: rgba(255, 215, 0, 0.3);
+    cursor: pointer;
+}
+
+/* Form styling */
+form {
+    background-color: rgba(0, 0, 74, 0.85);
+    color: white;
+    padding: 15px;
+    margin: 20px auto;
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    border: 1px solid #ffffff;
+}
+
+/* Dropdown and input button styling */
+select {
+    padding: 8px;
+    font-size: 16px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    background-color: #333;
+    color: #ffffff;
+}
+
+input {
+    color: white;
+    padding: 8px 20px;
+    font-size: 18px;
+    background-color: darkslateblue;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* Hover effect for submit button */
+input:hover {
+    background-color: #4b0082;
+}
