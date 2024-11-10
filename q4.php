@@ -33,15 +33,15 @@ $_SESSION["amount"] = 8500;
     <h2>$10,000 Question!</h2>
     <table>
         <tr style="height:100px">
-            <td colspan=2 class="question">What is the value of π (pi) to two decimal places?</td>
+            <td colspan=2 class="question">What is the largest mammal in the world?</td>
         </tr>
         <tr>
-            <td class="a">A. 3.14</td>
-            <td class="b">B. 3.16</td>
+            <td class="a">A. Blue Whale</td>
+            <td class="b">B. Elephant</td>
         </tr>
         <tr>
-            <td class="c">C. 3.18</td>
-            <td class="d">D. 3.12</td>
+            <td class="c">C. Great White Shark</td>
+            <td class="d">D. Giraffe</td>
         </tr>
     </table>
     <form action="" method="post">

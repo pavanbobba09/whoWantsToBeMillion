@@ -33,15 +33,15 @@ $_SESSION["amount"] = 38500;
     <h2>$50,000 Question!</h2>
     <table>
         <tr style="height:100px">
-            <td colspan=2 class="question">What does the acronym "HTML" stand for?</td>
+            <td colspan=2 class="question">Which scientist developed the theory of relativity?</td>
         </tr>
         <tr>
-            <td class="a">A. HyperText Markup Language</td> <!--Correct-->
-            <td class="b">B. High-Performance Multimedia Language</td>
+            <td class="a">A. Albert Einstein</td> <!--Correct-->
+            <td class="b">B. Isaac Newton</td>
         </tr>
         <tr>
-            <td class="c">C. Home Tool and Markup Language</td> 
-            <td class="d">D. Hyperlink and Text Management Language</td>
+            <td class="c">C. Galileo Galilei</td> 
+            <td class="d">D. Marie Curie</td>
         </tr>
     </table>
     <form action="" method="post">

@@ -33,15 +33,15 @@ $_SESSION["amount"] = 188500;
     <h2>$250,000 Question!</h2>
     <table>
         <tr style="height:100px">
-            <td colspan=2 class="question">What coding language is mostly used for Data Analytics problems?</td>
+            <td colspan=2 class="question">In Greek mythology, who is the goddess of wisdom?</td>
         </tr>
         <tr>
-            <td class="a">A. Angular</td>
-            <td class="b">B. Java</td>
+            <td class="a">A. Hera</td>
+            <td class="b">B. Aphrodite</td>
         </tr>
         <tr>
-            <td class="c">C. Python</td> <!--Correct-->
-            <td class="d">D. React</td>
+            <td class="c">C. Athena</td> <!--Correct-->
+            <td class="d">D. Artemis</td>
         </tr>
     </table>
     <form action="" method="post">

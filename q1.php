@@ -18,15 +18,15 @@
 	<h2>$1,000 Question!</h2>
 	<table>
 		<tr style="height:100px">
-			<td colspan=2 class="question">Who was the first President of the United States?</td>
+			<td colspan=2 class="question">What is the capital city of France?</td>
 		</tr>
 		<tr>
-			<td class="a">A. Thomas Jefferson</td>
-			<td class="b">B. George Washington</td> <!-- Correct Answer -->
+			<td class="a">A. London</td>
+			<td class="b">B. Paris</td> <!-- Correct Answer -->
 		</tr>
 		<tr>
-			<td class="c">C. Abraham Lincoln</td> 
-			<td class="d">D. John Adams</td>
+			<td class="c">C. Rome</td> 
+			<td class="d">D. Berlin</td>
 		</tr>
 	</table>
 	<form action="q1-submit.php" method="post">
