@@ -33,15 +33,15 @@ $_SESSION["amount"] = 3500;
     <h2>$5,000 Question!</h2>
     <table>
         <tr style="height:100px">
-            <td colspan=2 class="question">Who wrote "To Kill a Mockingbird"?</td>
+            <td colspan=2 class="question">Who painted the Mona Lisa?</td>
         </tr>
         <tr>
-            <td class="a">A. J.K. Rowling</td>
-            <td class="b">B. George Orwell</td>
+            <td class="a">A. Vincent van Gogh</td>
+            <td class="b">B. Pablo Picasso</td>
         </tr>
         <tr>
-            <td class="c">C. Harper Lee</td> <!--Correct-->
-            <td class="d">D. Ernest Hemingway</td>
+            <td class="c">C. Leonardo da Vinci</td> <!--Correct-->
+            <td class="d">D. Claude Monet</td>
         </tr>
     </table>
     <form action="" method="post">

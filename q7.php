@@ -33,15 +33,15 @@ $_SESSION["amount"] = 88500;
     <h2>$100,000 Question!</h2>
     <table>
         <tr style="height:100px">
-            <td colspan=2 class="question">In which sport would you perform a slam dunk?</td>
+            <td colspan=2 class="question">What year did World War I begin?</td>
         </tr>
         <tr>
-            <td class="a">A. Tennis</td>
-            <td class="b">B. Soccer</td>
+            <td class="a">A. 1912</td>
+            <td class="b">B. 1918</td>
         </tr>
         <tr>
-            <td class="c">C. Basketball</td> <!--Correct-->
-            <td class="d">D. Golf</td>
+            <td class="c">C. 1914</td> <!--Correct-->
+            <td class="d">D. 1920</td>
         </tr>
     </table>
     <form action="" method="post">
